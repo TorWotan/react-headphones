@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-headphones/static/css/main.4eafdb25.css",
+    "main.js": "/react-headphones/static/js/main.750d7149.js",
+    "index.html": "/react-headphones/index.html",
+    "main.4eafdb25.css.map": "/react-headphones/static/css/main.4eafdb25.css.map",
+    "main.750d7149.js.map": "/react-headphones/static/js/main.750d7149.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eafdb25.css",
+    "static/js/main.750d7149.js"
+  ]
+}
