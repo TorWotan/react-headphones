@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-headphones/static/css/main.4eafdb25.css",
-    "main.js": "/react-headphones/static/js/main.b85a23af.js",
+    "main.css": "/react-headphones/static/css/main.2ba31058.css",
+    "main.js": "/react-headphones/static/js/main.fbcd3904.js",
     "index.html": "/react-headphones/index.html",
-    "main.4eafdb25.css.map": "/react-headphones/static/css/main.4eafdb25.css.map",
-    "main.b85a23af.js.map": "/react-headphones/static/js/main.b85a23af.js.map"
+    "main.2ba31058.css.map": "/react-headphones/static/css/main.2ba31058.css.map",
+    "main.fbcd3904.js.map": "/react-headphones/static/js/main.fbcd3904.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eafdb25.css",
-    "static/js/main.b85a23af.js"
+    "static/css/main.2ba31058.css",
+    "static/js/main.fbcd3904.js"
   ]
 }
